@@ -1,4 +1,4 @@
-# LXJGZS 导航网站
+# LXJ tEam 导航网站
 
 ### 这是一个导航网站，是根据GitHub上的[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)项目简化而成
 
@@ -22,4 +22,4 @@
 
 ### 有兴趣可以试试！
 <br>
-#### 2023 LXJGZS
+#### 2024 LXJ tEam
